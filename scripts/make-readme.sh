@@ -32,6 +32,11 @@ cat <<EOF
 - It is not a separate product, and it is not meant to replace the upstream project.
 - The lab source repository is private. This page does not publish or relicense any code. Rights to the code remain with its authors.
 
+## Changes that are not upstream pull requests
+
+- Files under .github (the contribution rules, CI, and the checks for this lab). They are not part of the node software.
+- Removal of client/src/services/FrontEnd/src/assets/images/badged.svg:Zone.Identifier, a Windows download marker committed by mistake. The same removal was submitted upstream as GilgameshCaw/Caw#368.
+
 ## If the maintainer objects
 
 If the maintainer of GilgameshCaw/Caw objects to this node, we will stop it.
