@@ -19,7 +19,7 @@ If the maintainer of GilgameshCaw/Caw objects to this node, we will stop it.
 
 ## Upstream pull requests applied
 
-Generated from the lab branch at commit 3252e5a4 on 2026-11-18.
+97 pull requests, as of lab branch commit 3252e5a4 (2026-11-17). This list is updated automatically.
 
 - GilgameshCaw/Caw#48
 - GilgameshCaw/Caw#68
