@@ -24,7 +24,7 @@ If the maintainer of GilgameshCaw/Caw objects to this node, we will stop it.
 
 ## Upstream pull requests applied
 
-102 pull requests, as of lab branch commit c0ba49e9 (2026-11-19). This list is updated automatically.
+103 pull requests, as of lab branch commit 9be78c4e (2026-11-19). This list is updated automatically.
 
 - GilgameshCaw/Caw#48
 - GilgameshCaw/Caw#68
@@ -66,6 +66,7 @@ If the maintainer of GilgameshCaw/Caw objects to this node, we will stop it.
 - GilgameshCaw/Caw#220
 - GilgameshCaw/Caw#222
 - GilgameshCaw/Caw#223
+- GilgameshCaw/Caw#226
 - GilgameshCaw/Caw#227
 - GilgameshCaw/Caw#228
 - GilgameshCaw/Caw#229
