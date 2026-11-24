@@ -24,7 +24,7 @@ If the maintainer of GilgameshCaw/Caw objects to this node, we will stop it.
 
 ## Upstream pull requests applied
 
-135 pull requests, as of lab branch commit 30caf0a8 (2026-11-24). This list is updated automatically.
+140 pull requests, as of lab branch commit 2a0c6b9f (2026-11-25). This list is updated automatically.
 
 - GilgameshCaw/Caw#48
 - GilgameshCaw/Caw#68
@@ -69,6 +69,7 @@ If the maintainer of GilgameshCaw/Caw objects to this node, we will stop it.
 - GilgameshCaw/Caw#213
 - GilgameshCaw/Caw#214
 - GilgameshCaw/Caw#215
+- GilgameshCaw/Caw#216
 - GilgameshCaw/Caw#218
 - GilgameshCaw/Caw#220
 - GilgameshCaw/Caw#222
@@ -83,6 +84,7 @@ If the maintainer of GilgameshCaw/Caw objects to this node, we will stop it.
 - GilgameshCaw/Caw#233
 - GilgameshCaw/Caw#234
 - GilgameshCaw/Caw#236
+- GilgameshCaw/Caw#237
 - GilgameshCaw/Caw#238
 - GilgameshCaw/Caw#239
 - GilgameshCaw/Caw#241
@@ -141,6 +143,7 @@ If the maintainer of GilgameshCaw/Caw objects to this node, we will stop it.
 - GilgameshCaw/Caw#359
 - GilgameshCaw/Caw#362
 - GilgameshCaw/Caw#365
+- GilgameshCaw/Caw#369
 - GilgameshCaw/Caw#374
 - GilgameshCaw/Caw#375
 - GilgameshCaw/Caw#377
@@ -148,6 +151,7 @@ If the maintainer of GilgameshCaw/Caw objects to this node, we will stop it.
 - GilgameshCaw/Caw#379
 - GilgameshCaw/Caw#381
 - GilgameshCaw/Caw#389
+- GilgameshCaw/Caw#391
 - GilgameshCaw/Caw#392
 - GilgameshCaw/Caw#395
 - GilgameshCaw/Caw#398
@@ -160,4 +164,5 @@ If the maintainer of GilgameshCaw/Caw objects to this node, we will stop it.
 - GilgameshCaw/Caw#411
 - GilgameshCaw/Caw#412
 - GilgameshCaw/Caw#422
+- GilgameshCaw/Caw#447
 - GilgameshCaw/Caw#460
